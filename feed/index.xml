@@ -8,34 +8,34 @@
 	>
 
 <channel>
-	<title>trần ngọc khánh</title>
-	<atom:link href="http://localhost/khanh_db/feed/?simply_static_page=810" rel="self" type="application/rss+xml" />
+	<title></title>
+	<atom:link href="http://localhost/khanh_db/feed/?simply_static_page=1235" rel="self" type="application/rss+xml" />
 	<link>https://khanhdev9799.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Mon, 24 Apr 2023 07:46:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 May 2023 08:37:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
-		<title>Chào tất cả mọi người!</title>
-		<link>https://khanhdev9799.github.io/mywordpress/2023/04/24/chao-moi-nguoi/</link>
-					<comments>https://khanhdev9799.github.io/mywordpress/2023/04/24/chao-moi-nguoi/#comments</comments>
+		<title></title>
+		<link>https://khanhdev9799.github.io/mywordpress/2023/05/16/29/</link>
+					<comments>https://khanhdev9799.github.io/mywordpress/2023/05/16/29/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 24 Apr 2023 07:46:39 +0000</pubDate>
+		<pubDate>Tue, 16 May 2023 08:37:34 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://khanhdev9799.github.io/mywordpress/?p=1</guid>
+		<guid isPermaLink="false">https://khanhdev9799.github.io/mywordpress/?p=29</guid>
 
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+<pre class="wp-block-code"><code>/html/body/div&#91;1]/div&#91;2]/div/div/div/div/section&#91;1]/div&#91;2]/div/div/div/div/div&#91;4]/div/div/img</code></pre>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://khanhdev9799.github.io/mywordpress/2023/04/24/chao-moi-nguoi/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>https://khanhdev9799.github.io/mywordpress/2023/05/16/29/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
